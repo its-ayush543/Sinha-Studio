@@ -80,10 +80,10 @@ const Contact = () => {
               <h3 className="text-xl font-medium mb-2">Email Us</h3>
               <p className="text-neutral-600 mb-4">For general inquiries and bookings</p>
               <a
-                href="mailto:contact@sinhastudio.com"
+                href="mailto:clickcreationranchi@gmail.com"
                 className="text-black font-medium hover:underline"
               >
-                contact@sinhastudio.com
+                clickcreationranchi@gmail.com
               </a>
             </motion.div>
 
@@ -100,10 +100,10 @@ const Contact = () => {
               <h3 className="text-xl font-medium mb-2">Call Us</h3>
               <p className="text-neutral-600 mb-4">Mon-Fri from 9am to 6pm</p>
               <a
-                href="tel:+919876543210"
+                href="tel:+919234593650"
                 className="text-black font-medium hover:underline"
               >
-                +91 9876 543 210
+                +91 9234593650
               </a>
             </motion.div>
 
